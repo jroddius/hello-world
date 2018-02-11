@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository created during the tutorial for GitHub.
+This is my first repository created during the tutorial for GitHub. I am a beginning programmer ready to tackle the world of programming. I have taught myself C++ and have written a few small programs with it.  I have recently started using Spacemacs and decided it was about time to start populating my GitHub account. Thank you for this awesome site I have received many great programs from here and am proud I can start to help out with some projects on here myself. See you in the trenches.
